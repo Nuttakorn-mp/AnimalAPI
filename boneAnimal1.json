@@ -1,0 +1,424 @@
+{
+"_id": "60b6fe505f064f2cd4b44e72",
+    "updateDate": "2021-06-06T13:22:07.943Z",
+    "data": [
+        {
+            "imageURL": "http://localhost:3000/img/animals/img-1622604623581.jpg",
+            "_id": "60b6fe505f064f2cd4b44e73",
+            "imageName": "img-1622604623581.jpg",
+            "coordinator": [
+                {
+                    "_id": "60b9fa6ffea107048ca10f66",
+                    "title": "femur",
+                    "positionX": 250,
+                    "positionY": 312,
+                    "lineStartX": 373,
+                    "lineStartY": 262,
+                    "lineToX": 426,
+                    "lineToY": 210,
+                    "description": "-"
+                },
+                {
+                    "_id": "60b9fa6ffea107048ca10f67",
+                    "title": "tibia",
+                    "positionX": 473,
+                    "positionY": 360,
+                    "lineStartX": 413,
+                    "lineStartY": 312,
+                    "lineToX": 473,
+                    "lineToY": 360,
+                    "description": "-"
+                },
+                {
+                    "_id": "60b9fa6ffea107048ca10f68",
+                    "title": "fibular",
+                    "positionX": 480,
+                    "positionY": 350,
+                    "lineStartX": 420,
+                    "lineStartY": 302,
+                    "lineToX": 480,
+                    "lineToY": 350,
+                    "description": "-"
+                },
+                {
+                    "_id": "60b9fa6ffea107048ca10f69",
+                    "title": "ribsCage",
+                    "positionX": 481,
+                    "positionY": 125,
+                    "lineStartX": 419,
+                    "lineStartY": 175,
+                    "lineToX": 481,
+                    "lineToY": 144,
+                    "description": "-"
+                }
+            ]
+        },
+        {
+            "imageURL": "http://localhost:3000/img/animals/img-1622604623608.jpg",
+            "_id": "60b72c705f064f2cd4b44ecc",
+            "imageName": "img-1622604623608.jpg",
+            "coordinator": []
+        },
+        {
+            "imageURL": "http://localhost:3000/img/animals/img-1622604623630.jpg",
+            "_id": "60b72c705f064f2cd4b44ece",
+            "imageName": "img-1622604623630.jpg",
+            "coordinator": []
+        },
+        {
+            "imageURL": "http://localhost:3000/img/animals/img-1622604623660.jpg",
+            "_id": "60b9fa6ffea107048ca10f6c",
+            "imageName": "img-1622604623660.jpg",
+            "coordinator": [
+                {
+                    "_id": "60b9fa6ffea107048ca10f6d",
+                    "title": "tarsus",
+                    "positionX": 258,
+                    "positionY": 433,
+                    "lineStartX": 389,
+                    "lineStartY": 383,
+                    "lineToX": 442,
+                    "lineToY": 331,
+                    "description": "-"
+                },
+                {
+                    "_id": "60b9fa6ffea107048ca10f6e",
+                    "title": "metatarsus",
+                    "positionX": 205,
+                    "positionY": 447,
+                    "lineStartX": 368,
+                    "lineStartY": 397,
+                    "lineToX": 421,
+                    "lineToY": 345,
+                    "description": "-"
+                },
+                {
+                    "_id": "60b9fa6ffea107048ca10f6f",
+                    "title": "mandible",
+                    "positionX": 208,
+                    "positionY": 6,
+                    "lineStartX": 355,
+                    "lineStartY": 81,
+                    "lineToX": 300,
+                    "lineToY": 29.6,
+                    "description": "-"
+                },
+                {
+                    "_id": "60b9fa6ffea107048ca10f70",
+                    "title": "lumbarVertebrae",
+                    "positionX": 488,
+                    "positionY": 261,
+                    "lineStartX": 428,
+                    "lineStartY": 213,
+                    "lineToX": 488,
+                    "lineToY": 261,
+                    "description": "-"
+                }
+            ]
+        },
+        {
+            "imageURL": "http://localhost:3000/img/animals/img-1622604623683.jpg",
+            "_id": "60b9fa6ffea107048ca10f71",
+            "imageName": "img-1622604623683.jpg",
+            "coordinator": [
+                {
+                    "_id": "60b9fa6ffea107048ca10f72",
+                    "title": "carpus",
+                    "positionX": 164,
+                    "positionY": 81,
+                    "lineStartX": 295,
+                    "lineStartY": 156,
+                    "lineToX": 240,
+                    "lineToY": 104.6,
+                    "description": "-"
+                },
+                {
+                    "_id": "60b9fa6ffea107048ca10f73",
+                    "title": "metacapus",
+                    "positionX": 132,
+                    "positionY": 83,
+                    "lineStartX": 287,
+                    "lineStartY": 158,
+                    "lineToX": 232,
+                    "lineToY": 106.6,
+                    "description": "-"
+                },
+                {
+                    "_id": "60b9fa6ffea107048ca10f74",
+                    "title": "phalangs",
+                    "positionX": 136,
+                    "positionY": 85,
+                    "lineStartX": 283,
+                    "lineStartY": 160,
+                    "lineToX": 228,
+                    "lineToY": 108.6,
+                    "description": "-"
+                },
+                {
+                    "_id": "60b9fa6ffea107048ca10f75",
+                    "title": "cervicalVertebrae",
+                    "positionX": 173,
+                    "positionY": 32,
+                    "lineStartX": 372,
+                    "lineStartY": 107,
+                    "lineToX": 317,
+                    "lineToY": 55.6,
+                    "description": "-"
+                }
+            ]
+        },
+        {
+            "imageURL": "http://localhost:3000/img/animals/img-1622604623700.jpg",
+            "_id": "60b9fa6ffea107048ca10f76",
+            "imageName": "img-1622604623700.jpg",
+            "coordinator": [
+                {
+                    "_id": "60b9fa6ffea107048ca10f77",
+                    "title": "scapular",
+                    "positionX": 232,
+                    "positionY": 52,
+                    "lineStartX": 379,
+                    "lineStartY": 127,
+                    "lineToX": 324,
+                    "lineToY": 75.6,
+                    "description": "-"
+                }
+            ]
+        },
+        {
+            "imageURL": "http://localhost:3000/img/animals/img-1622604623723.jpg",
+            "_id": "60b9fa6ffea107048ca10f78",
+            "imageName": "img-1622604623723.jpg",
+            "coordinator": []
+        },
+        {
+            "imageURL": "http://localhost:3000/img/animals/img-1622604623758.jpg",
+            "_id": "60b9fa6ffea107048ca10f79",
+            "imageName": "img-1622604623758.jpg",
+            "coordinator": [
+                {
+                    "_id": "60b9fa6ffea107048ca10f7a",
+                    "title": "pelvic",
+                    "positionX": 482,
+                    "positionY": 297,
+                    "lineStartX": 422,
+                    "lineStartY": 249,
+                    "lineToX": 482,
+                    "lineToY": 297,
+                    "description": "-"
+                },
+                {
+                    "_id": "60b9fa6ffea107048ca10f7b",
+                    "title": "sarcum",
+                    "positionX": 470,
+                    "positionY": 306,
+                    "lineStartX": 410,
+                    "lineStartY": 258,
+                    "lineToX": 470,
+                    "lineToY": 306,
+                    "description": "-"
+                }
+            ]
+        },
+        {
+            "imageURL": "http://localhost:3000/img/animals/img-1622604623777.jpg",
+            "_id": "60b9fa6ffea107048ca10f7c",
+            "imageName": "img-1622604623777.jpg",
+            "coordinator": [
+                {
+                    "_id": "60b9fa6ffea107048ca10f7d",
+                    "title": "toracicVertebrae",
+                    "positionX": 192,
+                    "positionY": 50,
+                    "lineStartX": 388,
+                    "lineStartY": 125,
+                    "lineToX": 333,
+                    "lineToY": 73.6,
+                    "description": "-"
+                }
+            ]
+        },
+        {
+            "imageURL": "http://localhost:3000/img/animals/img-1622604623802.jpg",
+            "_id": "60b9fa6ffea107048ca10f7f",
+            "imageName": "img-1622604623802.jpg",
+            "coordinator": [
+                {
+                    "_id": "60b9fa6ffea107048ca10f80",
+                    "title": "coccygeal",
+                    "positionX": 217,
+                    "positionY": 394,
+                    "lineStartX": 372,
+                    "lineStartY": 344,
+                    "lineToX": 425,
+                    "lineToY": 292,
+                    "description": "-"
+                }
+            ]
+        },
+        {
+            "imageURL": "http://localhost:3000/img/animals/img-1622604623820.jpg",
+            "_id": "60b9fa6ffea107048ca10f81",
+            "imageName": "img-1622604623820.jpg",
+            "coordinator": []
+        },
+        {
+            "imageURL": "http://localhost:3000/img/animals/img-1622604623859.jpg",
+            "_id": "60b9fa6ffea107048ca10f82",
+            "imageName": "img-1622604623859.jpg",
+            "coordinator": []
+        },
+        {
+            "imageURL": "http://localhost:3000/img/animals/img-1622604623878.jpg",
+            "_id": "60b9fa6ffea107048ca10f83",
+            "imageName": "img-1622604623878.jpg",
+            "coordinator": []
+        },
+        {
+            "imageURL": "http://localhost:3000/img/animals/img-1622604623899.jpg",
+            "_id": "60b9fa6ffea107048ca10f84",
+            "imageName": "img-1622604623899.jpg",
+            "coordinator": [
+                {
+                    "_id": "60b9fa6ffea107048ca10f85",
+                    "title": "skull",
+                    "positionX": 472,
+                    "positionY": 2,
+                    "lineStartX": 410,
+                    "lineStartY": 52,
+                    "lineToX": 472,
+                    "lineToY": 21,
+                    "description": "-"
+                }
+            ]
+        },
+        {
+            "imageURL": "http://localhost:3000/img/animals/img-1622604623932.jpg",
+            "_id": "60b9fa6ffea107048ca10f86",
+            "imageName": "img-1622604623932.jpg",
+            "coordinator": [
+                {
+                    "_id": "60b9fa6ffea107048ca10f87",
+                    "title": "ulnar",
+                    "positionX": 498,
+                    "positionY": 94,
+                    "lineStartX": 436,
+                    "lineStartY": 144,
+                    "lineToX": 498,
+                    "lineToY": 113,
+                    "description": "-"
+                },
+                {
+                    "_id": "60b9fa6ffea107048ca10f88",
+                    "title": "radias",
+                    "positionX": 499,
+                    "positionY": 89,
+                    "lineStartX": 437,
+                    "lineStartY": 139,
+                    "lineToX": 499,
+                    "lineToY": 108,
+                    "description": "-"
+                }
+            ]
+        }
+    ],
+    "__v": 0,
+    "animal": {
+        "_id": "6038b34eff0829223c34adae",
+        "bone2DPath": [],
+        "picturePath": [],
+        "thaiName": "วัลลาบี",
+        "englishName": "Wallaby",
+        "scienceName": "Macropus rufogriseus",
+        "technicalTerm": "Macropus rufogriseus",
+        "description": "สัตว์เลี้ยงลูกด้วยน้ำนมที่มีหน้าท้องในเพศเมีย เป็นสัตว์พื้นเมืองในทวีปออสเตรเลีย และเกาะนิวกินี ลักษณะคล้ายจิงโจ้ที่มีขนาดเล็กแต่มีข้อแตกต่าง เช่น เท้าที่มีความยาวมากกว่า และขาที่สั้นกว่า สีขนจะมีสีสว่างและมีสีสันมากกว่า นอกจากนี้ฟันกรามของวัลลาบีจะมี ลักษณะที่เป็นแถวแบนและมีการสลัดฟันกรามน้อยเนื่องจากวัลลาบีไม่ใช้ฟันในการตัดอาหารมากเท่าจิงโจ้  อาหารหลักคือ หญ้า ใบไม้ ผลไม้ และสามารถดื่มน้ำทะเลได้อีกด้วย มักอาศัยในบริเวณที่มีหินและอยู่ใกล้เเหล่งน้ำ เข้าสู่ฤดูผสมพันธุ์ช่วงมกราคม-กุมภาพันธ์ ตั้งท้องประมาณ 28 วัน เมื่อคลอดลูกวัลลาบีจะปีนเข้าไปในหน้าท้องแม่ น้ำหนักเมื่อโตเต็มที่อยู่ที่ 20 กิโลกรัม สูงประมาณ 104 เซนติเมตร",
+        "taxonomy": null,
+        "animalTypeId": "603677925eb22332cc9c8056",
+        "__v": 0,
+        "complete": true,
+        "completeImagePath": [
+            "img-1622604623581.jpg",
+            "img-1622604623608.jpg",
+            "img-1622604623630.jpg",
+            "img-1622604623660.jpg",
+            "img-1622604623683.jpg",
+            "img-1622604623700.jpg",
+            "img-1622604623723.jpg",
+            "img-1622604623758.jpg",
+            "img-1622604623777.jpg",
+            "img-1622604623802.jpg",
+            "img-1622604623820.jpg",
+            "img-1622604623859.jpg",
+            "img-1622604623878.jpg",
+            "img-1622604623899.jpg",
+            "img-1622604623932.jpg",
+            "img-1622604623957.jpg"
+        ],
+        "boneId": "6040e71c46fdea04372083ac",
+        "organId": null,
+        "updateDate": "2021-06-02T03:30:23.984Z",
+        "completeImageLink": [
+            "http://localhost:3000/img/animals/img-1622604623581.jpg",
+            "http://localhost:3000/img/animals/img-1622604623608.jpg",
+            "http://localhost:3000/img/animals/img-1622604623630.jpg",
+            "http://localhost:3000/img/animals/img-1622604623660.jpg",
+            "http://localhost:3000/img/animals/img-1622604623683.jpg",
+            "http://localhost:3000/img/animals/img-1622604623700.jpg",
+            "http://localhost:3000/img/animals/img-1622604623723.jpg",
+            "http://localhost:3000/img/animals/img-1622604623758.jpg",
+            "http://localhost:3000/img/animals/img-1622604623777.jpg",
+            "http://localhost:3000/img/animals/img-1622604623802.jpg",
+            "http://localhost:3000/img/animals/img-1622604623820.jpg",
+            "http://localhost:3000/img/animals/img-1622604623859.jpg",
+            "http://localhost:3000/img/animals/img-1622604623878.jpg",
+            "http://localhost:3000/img/animals/img-1622604623899.jpg",
+            "http://localhost:3000/img/animals/img-1622604623932.jpg",
+            "http://localhost:3000/img/animals/img-1622604623957.jpg"
+        ]
+    },
+    "bone": {
+        "_id": "6040e71c46fdea04372083ac",
+        "axial": {
+            "vertebralColumn": {
+                "cervicalVertebrae": true,
+                "toracicVertebrae": true,
+                "ribsCage": true,
+                "sternum": true,
+                "lumbarVertebrae": true,
+                "sarcum": true,
+                "coccygeal": true
+            },
+            "skull": true,
+            "mandible": true
+        },
+        "appendicular": {
+            "forelimb": {
+                "scapular": true,
+                "clavicle": true,
+                "humerus": true,
+                "radias": true,
+                "ulnar": true,
+                "carpus": true,
+                "metacapus": true,
+                "phalangs": true,
+                "sesamoid": false
+            },
+            "hindlimb": {
+                "pelvic": true,
+                "femur": true,
+                "patella": false,
+                "fabella": false,
+                "tibia": true,
+                "fibular": true,
+                "tarsus": true,
+                "metatarsus": true,
+                "phalangs": true,
+                "sesamoid": false
+            }
+        },
+        "no": "14",
+        "species": "Wallaby",
+        "__v": 0
+    },
+    "platform": "Web"
+}

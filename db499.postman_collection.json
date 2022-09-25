@@ -1,0 +1,177 @@
+{
+	"info": {
+		"_postman_id": "932b54f7-424b-4708-b4b9-b1f7d7595c79",
+		"name": "db499",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "get-animal-name",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:4000/get-animal-name",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "4000",
+					"path": [
+						"get-animal-name"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getAnimalName",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:4000/getAnimalName",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "4000",
+					"path": [
+						"getAnimalName"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "newAnimal",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"animal_name\": \"666\",\r\n    \"tag\" :{\r\n        \"img\": \"666\",\r\n        \"img2\": \"666\"\r\n    }\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:4000/addNewAnimal",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "4000",
+					"path": [
+						"addNewAnimal"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getAnimalName/:animalId",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:4000/getAnimalName/615c644fe63ca0a23dead6a5",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "4000",
+					"path": [
+						"getAnimalName",
+						"615c644fe63ca0a23dead6a5"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "updateAnimal",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"animal_name\":\"777\",\r\n    \"tag\":{\r\n        \"img\": \"888\",\r\n        \"img2\": \"999\"\r\n    }\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:4000/getAnimalName/615d3fc4832b4075a1b14f87",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "4000",
+					"path": [
+						"getAnimalName",
+						"615d3fc4832b4075a1b14f87"
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "updateAnimal",
+					"originalRequest": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"tag\":{\r\n        \"img\": \"888\",\r\n        \"img2\": \"999\"\r\n    }\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:4000/getAnimalName/615d3fc4832b4075a1b14f87",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4000",
+							"path": [
+								"getAnimalName",
+								"615d3fc4832b4075a1b14f87"
+							]
+						}
+					},
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": null
+				}
+			]
+		},
+		{
+			"name": "deleteAnimal",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:4000/getAnimalName/615c5b5490dcb2815ce9331a",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "4000",
+					"path": [
+						"getAnimalName",
+						"615c5b5490dcb2815ce9331a"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

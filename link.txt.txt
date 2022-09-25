@@ -1,0 +1,12 @@
+https://nordicapis.com/building-a-restful-api-using-node-js-and-mongodb/
+
+https://account.mongodb.com/account/login?n=%2Fv2%2F61515c06c177c270a1b1f08a%23clusters
+
+https://www.youtube.com/results?search_query=How+to+get+database+on+MongoDB+Atlas+api
+
+https://www.youtube.com/watch?v=kitTIDusyBs
+
+https://www.youtube.com/watch?v=yH593K9fYvE
+
+เผื่อ https://github.com/benbinben/dbmuseum
+
