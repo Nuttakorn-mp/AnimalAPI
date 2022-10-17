@@ -72,7 +72,7 @@ exports.getAnimalNameById_mobile = (req, res) => {
   // res.status(200).json({msg: "hello"});
 };
 
-// รอแก้Formatข้อมูลให้ถูกต้อง
+// ไม่ได้ใช้
 exports.newAnimal = (req, res, next) => {
   const animal_1 = new Animal({
     animal_name: req.body.animal_name,

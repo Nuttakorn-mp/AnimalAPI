@@ -8,12 +8,7 @@ module.exports = function (app) {
   app
     .route('/getAnimalName/:animalId')
     .get(todoList.getAnimalNameById)
-    // .delete(todoList.deleteAnimal)
     .put(todoList.updateTagToAnimal);
-
-  // app
-  // .route("/addNewAnimal")
-  // .post(todoList.newAnimal);
 
   app
     .route('/getAnimalName/mobile/:animalId')
